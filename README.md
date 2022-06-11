@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ergün Umut BOZBEK</h1>
 <h3 align="center">A passionate developer, fast learner</h3>
 
-- 🌱 I’m currently learning **React , NodeJS, MongoDB, PostgreSQL  Javascript**
+- 🌱 I’m currently learning **React , NodeJS, MongoDB, PostgreSQL , Javascript**
 
 - 📫 How to reach me **umutbozbek58@gmail.com**
 
